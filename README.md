@@ -1,35 +1,38 @@
-SPB OTT 🎬
+OTT-Platform (https://spbott.netlify.app/)
 
-🔗 Live Demo
+📘 Overview
 
-👉 SPB OTT on Netlify https://spbott.netlify.app/
-
-
-SPB OTT is a simple OTT-style web application built and deployed on Netlify
-.
-The project is focused on providing a clean, responsive, and lightweight front-end design that can later be expanded into a complete streaming platform.
+OTT-Platform is a React + Vite frontend project styled like an OTT / streaming service UI. It allows embedding or browsing video content (presumably via YouTube or own video sources).
 
 
-🚀 Features
+🧰 Tech Stack & Toolchain
 
-Clean & Minimal UI – A distraction-free layout for showcasing OTT-style content.
+Languages / Markup / Styling: JavaScript, HTML, SCSS/CSS
 
-Responsive Design – Works seamlessly on desktop, tablet, and mobile devices.
+Framework / Libraries: React (with hooks, component-based design)
 
-Fast & Secure Hosting – Deployed on Netlify with global CDN, HTTPS, and auto-deploys.
+Build Tool / Bundler: Vite
 
-Scalable Structure – Built with modular design principles, making it easy to extend with new features.
+Linting / Code Quality: ESLint (configured in the repo)
 
-SEO-Friendly Base – Optimized for performance, structured HTML, and easy improvements for ranking.
+Deployment / Hosting: Netlify (or similar static hosting)
 
 
-🛠️ Tech Stack
+✔️ Features / Highlights
 
-Frontend: HTML5, CSS3, JavaScript (Vanilla / Framework-free)
+Streaming / video playback support (embedding from video sources)
 
-Hosting & Deployment: Netlify
+Clean, modern UI with category layout, responsive design
 
-Version Control: Git & GitHub
+SCSS-based styling for modular and maintainable CSS
+
+Hot reload / fast dev experience via Vite
+
+ESLint for maintaining coding standards
+
+Deployment-ready static build via Vite
+
+Mobile-first / responsive across devices
 
 
 
